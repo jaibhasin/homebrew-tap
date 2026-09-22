@@ -8,7 +8,7 @@ cask "deepseek-clock" do
   homepage "https://github.com/jaibhasin/deepseek-clock"
 
   depends_on arch: :arm64
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "DeepSeekClock.app"
 end
