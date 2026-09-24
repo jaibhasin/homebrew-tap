@@ -1,6 +1,6 @@
 cask "deepseek-clock" do
-  version "0.1.1"
-  sha256 "2607ebb97f13b1b06fec486aa47b09b2a9df6cb5756a404663641e98b9385ec5"
+  version "0.1.3"
+  sha256 "c04f6579eb3b04017fa8c1f723f8bf194ead9de9516900b3bfc753d081791463"
 
   url "https://github.com/jaibhasin/deepseek-clock/releases/download/v#{version}/DeepSeekClock-v#{version}.zip"
   name "DeepSeek Clock"
